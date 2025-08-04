@@ -710,21 +710,21 @@ local loc = {
 		["zh-tw"] = "爆率", -- 遠程爆擊率增加
 	},
 	trait_gadget_innate_toughness_increase = {
-		en = "TN", -- Toughness
+		en = "TUF", -- Toughness
 		["zh-cn"] = "韧性", -- 韧性
 		ja = "靭性", -- 最大タフネス
 		ru = "СТЙК", -- Стойкость
 		["zh-tw"] = "韌性", -- 最大韌性
 	},
 	trait_gadget_toughness_increase = {
-		en = "TN", -- Toughness
+		en = "TUF", -- Toughness
 		["zh-cn"] = "韧性", -- 韧性
 		ja = "靭性", -- タフネス
 		ru = "СТЙК", -- Стойкость
 		["zh-tw"] = "韌性", -- 韌性
 	},
 	trait_gadget_toughness_regen_delay = {
-		en = "TNRG", -- Toughness Regeneration Speed
+		en = "TUFR", -- Toughness Regeneration Speed
 		["zh-cn"] = "韧回", -- 韧性回复速度
 		ja = "靭回", -- タフネス回復遅延
 		ru = "СВСТ", -- Скорость восстановления стойкости
